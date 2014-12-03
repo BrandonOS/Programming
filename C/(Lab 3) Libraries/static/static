@@ -1,0 +1,10 @@
+#!/bin/bash
+
+gcc -Wall -c sphere.c
+gcc -Wall -c sumFloats.c
+gcc -Wall -c volCylinder.c
+gcc -Wall -c sine.c
+
+ar -vcru libmyLib.a sphere.o sumFloats.o volCylinder.o sine.o
+
+gcc -o main main.c -L. -lmyLib -lm

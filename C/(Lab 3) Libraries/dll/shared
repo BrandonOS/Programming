@@ -1,0 +1,6 @@
+gcc -fPIC -c ___.c
+gcc -fPIC -c ___.c
+gcc -fPIC -c ___.c
+
+gcc -shared -o lib____.so  ___.o   ____.o
+export LD_LIBRARY_PATH ./

@@ -1,0 +1,11 @@
+LIB_FILES = sort.o	#Files needed to build the library	
+
+
+main: main.c libmyLib.so		
+	gcc -o main main.c -L. -lmyLib -ldl
+
+libmyLib.so: ${LIB_FILES}
+	gcc -shared -o libmyLib.so ${LIB_FILES} 
+
+sort.o: sort.c
+	gcc -fPIC -c sort.c

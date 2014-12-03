@@ -1,0 +1,58 @@
+-------------------------------------------------------------------------------------------
+    Surname       	Given name    	Department    		PayRate 	Eye Color 
+-------------------------------------------------------------------------------------------
+ -1 Houck        	Bradley    	Computer_Services     	18.24 		Blue     
+ -1 Leky         	Evan       	Accounting            	8.96  		Blue     
+ -1 Feldman      	Dale       	Sales                 	9.57  		Hazel    
+ -1 Delony       	Jared      	Accounting            	11.31 		Blue     
+ -1 Shahid       	Nafis      	Sales                 	16.27 		Hazel    
+ -1 Tharpa       	Karna      	Computer_Services     	22.01 		Blue     
+ -1 Gibbs        	Kevin      	Sales                 	19.26 		Blue     
+ -1 Miller       	David      	Management            	6.72  		Steel    
+ -1 Morin        	Erik       	Management            	17.35 		Gray     
+ -1 Delony       	Jared      	Hacker                	45.44 		Green    
+ -1 Sanchez      	Joseph     	Manufacturing         	12.22 		Blue     
+ -1 Thorell      	Tyler      	Manufacturing         	1.34  		Blue     
+ -1 Hess         	Christian  	Sales                 	30.00 		Hazel    
+ -1 Funk         	Charles    	Computer_Services     	15.21 		Green    
+ -1 Dees         	Taylor     	Water_Sports          	53.34 		Brown    
+ -1 Morin        	Erik       	Accounting            	8.96  		Green    
+ -1 Sande        	Brandon    	Customer_Service      	78.93 		Blue     
+ -1 Sanches      	John       	Sales                 	16.27 		Hazel    
+ -1 Rocha        	Serigo     	Computer_Services     	22.01 		Blue     
+ -1 Liu          	Yanxin     	Accounting            	11.11 		Blue     
+ -1 Couture      	Jason      	Sales                 	19.26 		Blue     
+ -1 Cleek        	Jillian    	Management            	6.72  		Steel    
+ -1 Leung        	Franklin   	Shipping              	3.22  		Steel    
+ -1 Rana         	Ritish     	Water_Sports          	53.34 		Brown    
+ -1 Hodges       	Montana    	Hacker                	78.33 		Hazel    
+
+-------------------------------------------------------------------------------------------
+    Surname       	Given name    	Department    		PayRate 	Eye Color 
+-------------------------------------------------------------------------------------------
+ -1 Leky         	Evan       	Accounting            	8.96  		Blue     
+ -1 Delony       	Jared      	Accounting            	11.31 		Blue     
+ -1 Morin        	Erik       	Accounting            	8.96  		Green    
+ -1 Liu          	Yanxin     	Accounting            	11.11 		Blue     
+ -1 Houck        	Bradley    	Computer_Services     	18.24 		Blue     
+ -1 Tharpa       	Karna      	Computer_Services     	22.01 		Blue     
+ -1 Funk         	Charles    	Computer_Services     	15.21 		Green    
+ -1 Rocha        	Serigo     	Computer_Services     	22.01 		Blue     
+ -1 Sande        	Brandon    	Customer_Service      	78.93 		Blue     
+ -1 Delony       	Jared      	Hacker                	45.44 		Green    
+ -1 Hodges       	Montana    	Hacker                	78.33 		Hazel    
+ -1 Miller       	David      	Management            	6.72  		Steel    
+ -1 Morin        	Erik       	Management            	17.35 		Gray     
+ -1 Cleek        	Jillian    	Management            	6.72  		Steel    
+ -1 Sanchez      	Joseph     	Manufacturing         	12.22 		Blue     
+ -1 Thorell      	Tyler      	Manufacturing         	1.34  		Blue     
+ -1 Feldman      	Dale       	Sales                 	9.57  		Hazel    
+ -1 Shahid       	Nafis      	Sales                 	16.27 		Hazel    
+ -1 Gibbs        	Kevin      	Sales                 	19.26 		Blue     
+ -1 Hess         	Christian  	Sales                 	30.00 		Hazel    
+ -1 Sanches      	John       	Sales                 	16.27 		Hazel    
+ -1 Couture      	Jason      	Sales                 	19.26 		Blue     
+ -1 Leung        	Franklin   	Shipping              	3.22  		Steel    
+ -1 Dees         	Taylor     	Water_Sports          	53.34 		Brown    
+ -1 Rana         	Ritish     	Water_Sports          	53.34 		Brown    
+

@@ -1,0 +1,69 @@
+$ make
+gcc -o sock sockets/main.c
+gcc -o pipes main.c 
+$ ./sock
+[ 08:13:04 ] Beginning life support systems 	  
+[ 08:13:05 ] Adjusting breathing gas levels  	[ 4 Second(s) ] 
+[ 08:13:09 ] Adjusting environment  		[ 1 Second(s) ] 
+[ 08:13:10 ] Done. Life support adjusted. 	[ 1 Second(s) ]  
+		Execution time [ 6 Second(s) ]
+ 
+[ 08:13:12 ] Beginning navigation systems 	[ 1 Second(s) ] 
+[ 08:13:13 ] Adjusting navigation systems  	[ 5 Second(s) ] 
+[ 08:13:18 ] Done. Navigation systems adjusted 	[ 1 Second(s) ]  
+		Execution time  [ 13 Second(s) ] 
+[ 08:13:20 ] 	Total time 	[ 17 Second(s) ] 
+[ 08:13:21 ] 	Sleep 		[ 13 seconds ]
+ 
+[ 08:13:34 ] Beginning life support systems 	  
+[ 08:13:35 ] Adjusting breathing gas levels  	[ 1 Second(s) ] 
+[ 08:13:36 ] Adjusting environment  		[ 3 Second(s) ] 
+[ 08:13:39 ] Done. Life support adjusted. 	[ 1 Second(s) ]  
+		Execution time [ 5 Second(s) ]
+ 
+[ 08:13:41 ] Beginning navigation systems 	[ 1 Second(s) ] 
+[ 08:13:42 ] Adjusting navigation systems  	[ 5 Second(s) ] 
+[ 08:13:47 ] Done. Navigation systems adjusted 	[ 1 Second(s) ]  
+		Execution time  [ 12 Second(s) ] 
+[ 08:13:49 ] 	Total time 	[ 16 Second(s) ] 
+[ 08:13:50 ] 	Sleep 		[ 14 seconds ]
+ 
+[ 08:14:04 ] Beginning life support systems 	  
+[ 08:14:05 ] Adjusting breathing gas levels  	[ 5 Second(s) ] 
+[ 08:14:10 ] Adjusting environment  		[ 3 Second(s) ] 
+[ 08:14:13 ] Done. Life support adjusted. 	[ 1 Second(s) ]  
+		Execution time [ 9 Second(s) ]
+ 
+[ 08:14:15 ] Beginning navigation systems 	[ 1 Second(s) ] 
+[ 08:14:16 ] Adjusting navigation systems  	[ 3 Second(s) ] 
+[ 08:14:19 ] Done. Navigation systems adjusted 	[ 1 Second(s) ]  
+		Execution time  [ 14 Second(s) ] 
+[ 08:14:21 ] 	Total time 	[ 18 Second(s) ] 
+[ 08:14:22 ] 	Sleep 		[ 12 seconds ]
+ 
+[ 08:14:34 ] Beginning life support systems 	  
+[ 08:14:35 ] Adjusting breathing gas levels  	[ 2 Second(s) ] 
+[ 08:14:37 ] Adjusting environment  		[ 1 Second(s) ] 
+[ 08:14:38 ] Done. Life support adjusted. 	[ 1 Second(s) ]  
+		Execution time [ 4 Second(s) ]
+ 
+[ 08:14:40 ] Beginning navigation systems 	[ 1 Second(s) ] 
+[ 08:14:41 ] Adjusting navigation systems  	[ 3 Second(s) ] 
+[ 08:14:44 ] Done. Navigation systems adjusted 	[ 1 Second(s) ]  
+		Execution time  [ 9 Second(s) ] 
+[ 08:14:46 ] 	Total time 	[ 13 Second(s) ] 
+[ 08:14:47 ] 	Sleep 		[ 17 seconds ]
+ 
+[ 08:15:04 ] Beginning life support systems 	  
+[ 08:15:05 ] Adjusting breathing gas levels  	[ 1 Second(s) ] 
+[ 08:15:06 ] Adjusting environment  		[ 2 Second(s) ] 
+[ 08:15:08 ] Done. Life support adjusted. 	[ 1 Second(s) ]  
+		Execution time [ 4 Second(s) ]
+ 
+[ 08:15:10 ] Beginning navigation systems 	[ 1 Second(s) ] 
+[ 08:15:11 ] Adjusting navigation systems  	[ 2 Second(s) ] 
+[ 08:15:13 ] Done. Navigation systems adjusted 	[ 1 Second(s) ]  
+		Execution time  [ 8 Second(s) ] 
+[ 08:15:15 ] 	Total time 	[ 12 Second(s) ] 
+[ 08:15:16 ] 	Sleep 		[ 18 seconds ]
+

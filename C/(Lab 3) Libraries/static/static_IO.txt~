@@ -1,0 +1,42 @@
+$ ./static
+a - sphere.o
+a - sumFloats.o
+a - volCylinder.o
+a - sine.o
+c$ ./main
+The volume of a sphere is: 1369.85
+The volume of a cylinder is: 3841.85
+Enter floating point (1): 0.3476789
+Enter floating point (2): 100400.8
+Enter floating point (3): 0.0000099
+Enter floating point (4): 1.343567
+Enter floating point (5): 78.34567
+Enter floating point (6): 1678.567
+Enter floating point (7): 997999.6 
+Enter floating point (8): 0.0000009
+
+Unsorted
+	        0.3476789 
+	   100400.7968750 
+	        0.0000099 
+	        1.3435670 
+	       78.3456726 
+	     1678.5670166 
+	   997999.6250000 
+	        0.0000009 
+The sum is: 	1100159.02582092
+Sorted
+	        0.0000009 
+	        0.0000099 
+	        0.3476789 
+	        1.3435670 
+	       78.3456726 
+	     1678.5670166 
+	   100400.7968750 
+	   997999.6250000  
+Sin(.345): 0.338196676
+ 
+Sin(45): 0.707106797
+
+Sin(36): 0.587785266
+$ 

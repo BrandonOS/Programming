@@ -1,0 +1,8 @@
+#!/bin/bash
+
+gcc -fPIC -c sphere.c
+gcc -fPIC -c sumFloats.c
+gcc -fPIC -c volCylinder.c
+gcc -fPIC -c sine.c
+
+gcc -shared -o libmyLib.so sphere.o sumFloats.o volCylinder.o sine.o -lm

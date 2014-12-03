@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <dlfcn.h>
+
+template <class MyType>
+void TemplateAscendingSort( struct employee *emply, int noOfRecords, MyType *ptr){
+	private: 
+		int i, j;
+		int temp;
+
+	//Give each record a key
+	for(i = 0; i < noOfRecords; i++)	
+	{
+		emply[i].key = i;
+		ptr[i] = i;		
+	}
+
+	for(i = 0; i < noOfRecords; i++){
+		temp = ptr[i];
+		j = i;
+		while(j > 0 && cmpName((j - 1), temp) > 0){
+			ptr[j] = ptr[j - 1];
+			j--;
+		}
+		ptr[j] = temp;
+	}
+}
+}
+ 
+int cmpName(int p, int q)  //Compare by name
+              {return strcmp(emply[q].dept, emply[q].dept); }
+
+int cmpDept(void* p, void* q)  //Compare by age
+              {return emply[ *(ptr + (j -1)) ].dept, emply[temp].dept; }
+
+void swap(int *emply, int i, int j){
+	int temp;
+	temp = *(emply + i);
+	*(emply + i) = *(emply + j);
+	*(emply + j) = temp;
+}
+

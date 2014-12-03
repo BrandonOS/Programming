@@ -1,0 +1,15 @@
+$SRC_FILES = sphere.o sumFloats.o volCylinder.o sine.o
+
+libmyLib.so: ${SRC_FILES}
+	gcc -shared -o libmyLib.so ${SRC_FILES}
+
+sphere.o:
+	gcc -fPIC -c sphere.c
+
+sumFloats.o: 
+	gcc -fPIC -c sumFloats.c
+
+volCylinder.o: 
+	gcc -fPIC -c volCylinder.c
+sine.o:
+	gcc -fPIC -c sine.c
