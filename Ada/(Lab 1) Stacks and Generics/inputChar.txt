@@ -1,0 +1,15 @@
+20
+2
+Joe moT Betty#
+y
+y
+y
+n
+1
+Larry Sarah Bob#
+y
+n
+1
+Harold Sue#
+0
+2

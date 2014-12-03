@@ -1,0 +1,516 @@
+What do you want to create: 
+
+ Names Stack = [1] 
+ Dates Stack = [2] 
+Make your selection: 
+--------------------
+ Names Stack
+--------------------
+
+Enter the size of the stack:   Stack of size: 36
+
+Enter number of stacks:    3 total Stacks.
+
+Select a starting point:   Starting point is: 14
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'BURRIS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'RIOS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 1 was selected.
+
+Name 'RIOS' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'COOPER' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'BENNETT' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 3 was selected.
+
+Overflow ocurred. Reallocating memory.
+
+Before Reallocation. Memory status: 
+____________________________________
+|  base(1) =  14  |  top(1) =  17  |
+|  base(2) =  26  |  top(2) =  26  |
+|  base(3) =  39  |  top(3) =  40  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before Reallocation. Content status: 
+Stack 1 | Position 15 = BURRIS
+Stack 1 | Position 16 = COOPER
+Stack 1 | Position 17 = BENNETT
+
+
+After Reallocation. Memory status: 
+____________________________________
+|  base(1) =  14  |  top(1) =  17  |
+|  base(2) =  29  |  top(2) =  29  |
+|  base(3) =  30  |  top(3) =  31  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+After Reallocation. Content Status: 
+Stack 1 | Position 15 = BURRIS
+Stack 1 | Position 16 = COOPER
+Stack 1 | Position 17 = BENNETT
+Stack 3 | Position 31 = JI
+
+
+Name 'JI' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+Name 'GARZA' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 3 was selected.
+
+Name 'MORGAN' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 3 was selected.
+
+Name 'MORGAN' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'WILLS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 3 was selected.
+
+Name 'MCGUIRE' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'CHEN' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'HALL' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'RIOS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'BURRIS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'MCGUIRE' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 1 was selected.
+
+Name 'MCGUIRE' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 1 was selected.
+
+Name 'BURRIS' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 1 was selected.
+
+Name 'RIOS' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+Overflow ocurred. Reallocating memory.
+
+Before Reallocation. Memory status: 
+____________________________________
+|  base(1) =  14  |  top(1) =  20  |
+|  base(2) =  29  |  top(2) =  31  |
+|  base(3) =  30  |  top(3) =  32  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before Reallocation. Content status: 
+Stack 1 | Position 15 = BURRIS
+Stack 1 | Position 16 = COOPER
+Stack 1 | Position 17 = BENNETT
+Stack 1 | Position 18 = WILLS
+Stack 1 | Position 19 = CHEN
+Stack 1 | Position 20 = HALL
+Stack 2 | Position 30 = GARZA
+Stack 3 | Position 31 = JI
+Stack 3 | Position 32 = MCGUIRE
+
+
+After Reallocation. Memory status: 
+____________________________________
+|  base(1) =  14  |  top(1) =  20  |
+|  base(2) =  25  |  top(2) =  27  |
+|  base(3) =  31  |  top(3) =  33  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+After Reallocation. Content Status: 
+Stack 1 | Position 15 = BURRIS
+Stack 1 | Position 16 = COOPER
+Stack 1 | Position 17 = BENNETT
+Stack 1 | Position 18 = WILLS
+Stack 1 | Position 19 = CHEN
+Stack 1 | Position 20 = HALL
+Stack 2 | Position 26 = GARZA
+Stack 2 | Position 27 = CHO
+Stack 3 | Position 32 = MCGUIRE
+Stack 3 | Position 33 = BURRIS
+
+
+Name 'CHO' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+Name 'IHEZUKWU' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'SPARKS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'VIEIRA' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'BING' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+Name 'CHO' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'MCGUIRE' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 2 was selected.
+
+Name 'CHO' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 2 was selected.
+
+Name 'IHEZUKWU' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 2 was selected.
+
+Name 'CHO' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+Name 'GURUNG' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+Name 'MCGUIRE' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+Name 'VAROL' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 3 was selected.
+
+Adios!

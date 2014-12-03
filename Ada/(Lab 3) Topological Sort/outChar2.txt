@@ -1,0 +1,23 @@
+1. Integer Topological Sort.
+2. Character Topological Sort.
+Select a type of sort: 
+Begin Character sort
+Enter number of items: List to process: 
+C < G
+G < E
+H < A
+A < B
+B < D
+J < I
+G < A
+A < B
+G < B
+B < C
+D < E
+F < C
+G < E
+G < F
+
+Possible Topological sort: H, J, I, 
+
+No Solution. Loop exists in: A, G, C, B, A, 

@@ -1,0 +1,363 @@
+What do you want to create: 
+
+ Names Stack = [1] 
+ Dates Stack = [2] 
+Make your selection: 
+--------------------
+ Dates Stack
+--------------------
+
+Enter the size of the stack:   Stack of size: 10
+
+How many Stacks?  3 total Stacks.
+
+Starting point?   starting point is: 0
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date JANUARY, 15 1956 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date FEBRUARY, 14 1947 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date OCTOBER, 16 1986 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 3 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date SEPTEMBER, 17 1842 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date DECEMBER, 24 1996 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 1 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 3 was selected.
+
+The date'OCTOBER, 16 1986' succesfully popped.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 1 was selected.
+
+The date'DECEMBER, 24 1996' succesfully popped.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date MARCH, 16 1992 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 3 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 3 was selected.
+
+The date'MARCH, 16 1992' succesfully popped.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+Option 1 was selected.
+
+Underflow!
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date JANUARY, 15 1956 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date APRIL,  4 1492 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 3 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date NOVEMBER,  7 1776 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 3 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date JUNE, 12 1994 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 3 was selected.
+
+Overflow ocurred. Reallocating memory.
+
+Before Reallocation. Memory status: 
+____________________________________
+|  base(1) =   0  |  top(1) =   0  |
+|  base(2) =   4  |  top(2) =   8  |
+|  base(3) =   8  |  top(3) =  11  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before Reallocation. Content status: 
+Stack 2 | Position 5 = JANUARY
+Stack 2 | Position 6 = FEBRUARY
+Stack 2 | Position 7 = SEPTEMBER
+Stack 2 | Position 8 = JANUARY
+Stack 3 | Position 9 = APRIL
+Stack 3 | Position 10 = NOVEMBER
+
+
+After Reallocation. Memory status: 
+____________________________________
+|  base(1) =   0  |  top(1) =   0  |
+|  base(2) =   0  |  top(2) =   4  |
+|  base(3) =   5  |  top(3) =   8  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+After Reallocation. Content Status: 
+Stack 2 | Position 1 = JANUARY
+Stack 2 | Position 2 = FEBRUARY
+Stack 2 | Position 3 = SEPTEMBER
+Stack 2 | Position 4 = JANUARY
+Stack 3 | Position 6 = APRIL
+Stack 3 | Position 7 = NOVEMBER
+Stack 3 | Position 8 = JUNE
+
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date JULY,  4 1776 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date JANUARY, 15 2012 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 2 was selected.
+
+Overflow ocurred. Reallocating memory.
+
+Before Reallocation. Memory status: 
+____________________________________
+|  base(1) =   0  |  top(1) =   0  |
+|  base(2) =   0  |  top(2) =   6  |
+|  base(3) =   5  |  top(3) =   8  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before Reallocation. Content status: 
+Stack 2 | Position 1 = JANUARY
+Stack 2 | Position 2 = FEBRUARY
+Stack 2 | Position 3 = SEPTEMBER
+Stack 2 | Position 4 = JANUARY
+Stack 2 | Position 5 = JULY
+Stack 3 | Position 6 = APRIL
+Stack 3 | Position 7 = NOVEMBER
+Stack 3 | Position 8 = JUNE
+
+
+After Reallocation. Memory status: 
+____________________________________
+|  base(1) =   0  |  top(1) =   0  |
+|  base(2) =   0  |  top(2) =   6  |
+|  base(3) =   6  |  top(3) =   9  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+After Reallocation. Content Status: 
+Stack 2 | Position 1 = JANUARY
+Stack 2 | Position 2 = FEBRUARY
+Stack 2 | Position 3 = SEPTEMBER
+Stack 2 | Position 4 = JANUARY
+Stack 2 | Position 5 = JULY
+Stack 2 | Position 6 = JANUARY
+Stack 3 | Position 7 = NOVEMBER
+Stack 3 | Position 8 = JUNE
+Stack 3 | Position 9 = APRIL
+
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date DECEMBER,  6 1991 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 3 was selected.
+
+The date  succesfully pushed.
+
+What do you want to do? 
+1. Push.
+2. Pop.
+3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter the date( Month Day Year): Date MARCH,  5 1886 entered.
+  1. Stack 1
+  2. Stack 2
+  3. Stack 3
+Push to which stack: Stack 3 was selected.
+
+Overflow ocurred. Reallocating memory.
+
+Before Reallocation. Memory status: 
+____________________________________
+|  base(1) =   0  |  top(1) =   0  |
+|  base(2) =   0  |  top(2) =   6  |
+|  base(3) =   6  |  top(3) =  11  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before Reallocation. Content status: 
+Stack 2 | Position 1 = JANUARY
+Stack 2 | Position 2 = FEBRUARY
+Stack 2 | Position 3 = SEPTEMBER
+Stack 2 | Position 4 = JANUARY
+Stack 2 | Position 5 = JULY
+Stack 2 | Position 6 = JANUARY
+Stack 3 | Position 7 = NOVEMBER
+Stack 3 | Position 8 = JUNE
+Stack 3 | Position 9 = APRIL
+Stack 3 | Position 10 = DECEMBER
+
+
+Not enough memory. Come back with more space or dont come at all.
+

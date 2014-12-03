@@ -1,0 +1,470 @@
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: SEWELL
+  Enter Phone:   295-1492
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: LEE
+  Enter Phone:   291-1864
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: VANEK
+  Enter Phone:   295-1601
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: HALL
+  Enter Phone:   293-6122
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: BUCK
+  Enter Phone:   295-1882
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: RIOS
+  Enter Phone:   291-7890
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: MORGAN
+  Enter Phone:   294-8075
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: SEWELL
+  Enter Phone:   584-3622
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 2
+
+1. Iteratively
+2. Recursively
+How do you want to search: 1
+
+Enter name: RYBA
+That name does not exist in the tree.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 2
+
+1. Iteratively
+2. Recursively
+How do you want to search: 2
+
+Enter name: RYBA
+That name does not exist in the tree.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 2
+
+1. Iteratively
+2. Recursively
+How do you want to search: 1
+
+Enter name: BUCK
+Record has been found using iterative method.
+BUCK:   295-1882
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 2
+
+1. Iteratively
+2. Recursively
+How do you want to search: 2
+
+Enter name: BUCK
+Record has been found using Recursive method.
+BUCK:   295-1882
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 3
+
+1. InOrder - 3
+2. ReverseInOrder - 1
+3. PreOrder - 4
+4. PostOrder - 2
+How would you like to traverse : 1
+1. Name
+2. Root
+Pick a method of traversal: 1
+ Enter a name: VANEK
+Traversing tree starting from: VANEK
+Phone     / Name
+  295-1601/ VANEK
+  293-6122/ HALL
+  295-1882/ BUCK
+  294-8075/ MORGAN
+  291-7890/ RIOS
+  295-1492/ SEWELL
+  584-3622/ SEWELL
+  291-1864/ LEE
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: SODMANN
+  Enter Phone:   294-1568
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: CARAZO
+  Enter Phone:   294-1882
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: MONTES
+  Enter Phone:   295-6622
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 3
+
+1. InOrder - 3
+2. ReverseInOrder - 1
+3. PreOrder - 4
+4. PostOrder - 2
+How would you like to traverse : 1
+1. Name
+2. Root
+Pick a method of traversal: 2
+Traversing tree starting from ROOT.
+Phone     / Name
+  295-1492/ SEWELL
+  584-3622/ SEWELL
+  291-1864/ LEE
+  295-1601/ VANEK
+  293-6122/ HALL
+  295-1882/ BUCK
+  294-8075/ MORGAN
+  294-1882/ CARAZO
+  291-7890/ RIOS
+  295-6622/ MONTES
+  294-1568/ SODMANN
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 4
+
+Enter a name: SEWELL
+Node of name 'SEWELL' was deleted succesfully.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 4
+
+Enter a name: HALL
+Node of name 'HALL' was deleted succesfully.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 4
+
+Enter a name: SEWELL
+Node of name 'SEWELL' was deleted succesfully.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 4
+
+Enter a name: SODMANN
+Node of name 'SODMANN' was deleted succesfully.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 4
+
+Enter a name: BURRIS
+That name does not exist in the tree.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 4
+
+Enter a name: SEWELL
+That name does not exist in the tree.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: CALDWELL
+  Enter Phone:   294-1666
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 1
+
+  Enter Name: HOUCK
+  Enter Phone:   295-1882
+Insertion Successfull.
+
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 3
+
+1. InOrder - 3
+2. ReverseInOrder - 1
+3. PreOrder - 4
+4. PostOrder - 2
+How would you like to traverse : 1
+1. Name
+2. Root
+Pick a method of traversal: 2
+Traversing tree starting from ROOT.
+Phone     / Name
+  291-1864/ LEE
+  295-1601/ VANEK
+  295-1882/ BUCK
+  294-8075/ MORGAN
+  294-1882/ CARAZO
+  291-7890/ RIOS
+  294-1666/ CALDWELL
+  295-1882/ HOUCK
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 3
+
+1. InOrder - 3
+2. ReverseInOrder - 1
+3. PreOrder - 4
+4. PostOrder - 2
+How would you like to traverse : 2
+  295-1882/ HOUCK
+  294-1666/ CALDWELL
+  291-7890/ RIOS
+  294-1882/ CARAZO
+  294-8075/ MORGAN
+  295-1882/ BUCK
+  295-1601/ VANEK
+  291-1864/ LEE
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 3
+
+1. InOrder - 3
+2. ReverseInOrder - 1
+3. PreOrder - 4
+4. PostOrder - 2
+How would you like to traverse : 3
+1. Name
+2. Root
+Pick a method of traversal: 2
+Traversing tree starting from ROOT.
+Phone     / Name
+  291-1864/ LEE
+  295-1601/ VANEK
+  295-1882/ BUCK
+  291-7890/ RIOS
+  294-8075/ MORGAN
+  294-1882/ CARAZO
+  294-1666/ CALDWELL
+  295-1882/ HOUCK
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 3
+
+1. InOrder - 3
+2. ReverseInOrder - 1
+3. PreOrder - 4
+4. PostOrder - 2
+How would you like to traverse : 4
+1. Iterative
+2. Recursive
+Pick a method of traversal: 1
+  294-1882/ CARAZO
+  294-8075/ MORGAN
+  295-1882/ HOUCK
+  294-1666/ CALDWELL
+  291-7890/ RIOS
+  295-1882/ BUCK
+  295-1601/ VANEK
+  291-1864/ LEE
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 3
+
+1. InOrder - 3
+2. ReverseInOrder - 1
+3. PreOrder - 4
+4. PostOrder - 2
+How would you like to traverse : 4
+1. Iterative
+2. Recursive
+Pick a method of traversal: 2
+  294-1882/ CARAZO
+  294-8075/ MORGAN
+  295-1882/ HOUCK
+  294-1666/ CALDWELL
+  291-7890/ RIOS
+  295-1882/ BUCK
+  295-1601/ VANEK
+  291-1864/ LEE
+What you want to do?
+1. Insert 
+2. Search
+3. Traverse
+4. Delete
+5. Exit
+Make your selection: 5
+
+Bye!

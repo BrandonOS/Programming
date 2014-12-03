@@ -1,0 +1,569 @@
+Statistics for Part A (Linear Probe at 50% full)
+Statistics of first 30 lookups:
+Min probes:          20
+Max probes:          79
+Avg probes:  6.07000E+01
+
+Resetting statistics counters...
+Statistics of last 30 lookups:
+Min probes:          44
+Max probes:         120
+Avg probes:  9.01000E+01
+
+Table for Part A (Linear Probe at 50% full)
+          1 John            
+          2 Charles         
+          3 James           
+          4 Chris           
+          5 Robert          
+          6 Christopher     
+          7 Scott           
+          8 Fernando        
+          9 Todd            
+         10 Batbold         
+         11 Joel            
+         12 Fabulous        
+         13 Vinnela         
+         14 Veronica        
+         15 Wade            
+         16 Maiden          
+         17 Eye             
+         18 Constriction    
+         19 Necromancer     
+         20 Syncopate       
+         21 Yolk            
+         22 Afterwards      
+         23 Person          
+         24 Northwest       
+         25 Irreversible    
+         26 Fabricate       
+         27 Honor           
+         28 Staple          
+         29 Under           
+         30 Jutty           
+         31 Finagle         
+         32 Cook            
+         33 Rush            
+         34                 
+         35 Misogamist      
+         36                 
+         37                 
+         38                 
+         39                 
+         40                 
+         41                 
+         42                 
+         43                 
+         44                 
+         45                 
+         46                 
+         47                 
+         48                 
+         49                 
+         50                 
+         51                 
+         52                 
+         53                 
+         54                 
+         55                 
+         56                 
+         57                 
+         58                 
+         59                 
+         60                 
+         61                 
+         62                 
+         63                 
+         64                 
+         65                 
+         66                 
+         67                 
+         68                 
+         69                 
+         70                 
+         71                 
+         72                 
+         73                 
+         74                 
+         75                 
+         76                 
+         77                 
+         78                 
+         79                 
+         80                 
+         81                 
+         82                 
+         83                 
+         84                 
+         85                 
+         86                 
+         87                 
+         88                 
+         89                 
+         90                 
+         91                 
+         92                 
+         93                 
+         94                 
+         95                 
+         96                 
+         97                 
+         98                 
+         99 Acevedo         
+        100 Ajose           
+        101 Arauza          
+        102 Buck            
+        103 Clark           
+        104 Crouch          
+        105 Davies          
+        106 Dugger          
+        107 Egbe            
+        108 Ellington       
+        109 Farral          
+        110 Corey           
+        111 Garza           
+        112 Gurung          
+        113 Adam            
+        114 Clayton         
+        115 Dustin          
+        116 Derek           
+        117 Joseph          
+        118 Judy            
+        119 Kelly           
+        120 Kyle            
+        121 1234567890123456
+        122 Jeffrey         
+        123 Jordon          
+        124 Lisa            
+        125 Matthew         
+        126 Michael         
+        127 Octavio         
+        128 Akhila          
+
+Statistics for Part B (Linear Probe at 85% full)
+Statistics of first 30 lookups:
+Min probes:          20
+Max probes:         120
+Avg probes:  7.54000E+01
+
+Resetting statistics counters...
+Statistics of last 30 lookups:
+Min probes:          57
+Max probes:         128
+Avg probes:  9.75000E+01
+
+Table for Part B (Linear Probe at 85% full)
+          1 John            
+          2 Charles         
+          3 James           
+          4 Chris           
+          5 Robert          
+          6 Christopher     
+          7 Scott           
+          8 Fernando        
+          9 Todd            
+         10 Batbold         
+         11 Joel            
+         12 Fabulous        
+         13 Vinnela         
+         14 Veronica        
+         15 Wade            
+         16 Maiden          
+         17 Eye             
+         18 Constriction    
+         19 Necromancer     
+         20 Syncopate       
+         21 Yolk            
+         22 Afterwards      
+         23 Person          
+         24 Northwest       
+         25 Irreversible    
+         26 Fabricate       
+         27 Honor           
+         28 Staple          
+         29 Under           
+         30 Jutty           
+         31 Finagle         
+         32 Cook            
+         33 Rush            
+         34 Wine            
+         35 Misogamist      
+         36 Screen          
+         37 Perfect         
+         38 parasympathetic 
+         39 brutalize       
+         40 cap             
+         41 ratiocination   
+         42 cauldron        
+         43 prepossess      
+         44 constrain       
+         45 rationalize     
+         46 dactyl          
+         47 forgetful       
+         48 guard           
+         49 compass         
+         50 diastase        
+         51 inlet           
+         52 emperor         
+         53 exhilarate      
+         54 history         
+         55 keep            
+         56                 
+         57 live            
+         58 lazy            
+         59 mole            
+         60 magnetic        
+         61 marsupial       
+         62 nosegay         
+         63 option          
+         64 noggin          
+         65 poison          
+         66 privilege       
+         67 quandary        
+         68 prologue        
+         69 malfeasance     
+         70                 
+         71 scat            
+         72 sparse          
+         73 toluene         
+         74 sponsor         
+         75 seal            
+         76 seat            
+         77 tiller          
+         78                 
+         79 wince           
+         80 wet             
+         81 orthodontist    
+         82                 
+         83                 
+         84                 
+         85                 
+         86                 
+         87                 
+         88                 
+         89                 
+         90                 
+         91                 
+         92                 
+         93 ichthyosaur     
+         94                 
+         95                 
+         96                 
+         97                 
+         98                 
+         99 Acevedo         
+        100 Ajose           
+        101 Arauza          
+        102 Buck            
+        103 Clark           
+        104 Crouch          
+        105 Davies          
+        106 Dugger          
+        107 Egbe            
+        108 Ellington       
+        109 Farral          
+        110 Corey           
+        111 Garza           
+        112 Gurung          
+        113 Adam            
+        114 Clayton         
+        115 Dustin          
+        116 Derek           
+        117 Joseph          
+        118 Judy            
+        119 Kelly           
+        120 Kyle            
+        121 1234567890123456
+        122 Jeffrey         
+        123 Jordon          
+        124 Lisa            
+        125 Matthew         
+        126 Michael         
+        127 Octavio         
+        128 Akhila          
+
+Hashing collision handler set for random probe. (Part C)
+Statistics for Part C (Random Probe at 50% full)
+Statistics of first 30 lookups:
+Min probes:           6
+Max probes:         128
+Avg probes:  7.89333E+01
+
+Resetting statistics counters...
+Statistics of last 30 lookups:
+Min probes:           7
+Max probes:         123
+Avg probes:  6.03333E+01
+
+Table for Part C (Random Probe at 50% full)
+          1 Michael         
+          2 Arauza          
+          3 Clayton         
+          4                 
+          5 Derek           
+          6 Corey           
+          7 Eye             
+          8 Dustin          
+          9 Fabricate       
+         10 Todd            
+         11 Robert          
+         12 Fabulous        
+         13 Scott           
+         14 Vinnela         
+         15 Afterwards      
+         16 Wade            
+         17 Jordon          
+         18                 
+         19 Veronica        
+         20 Jeffrey         
+         21 Constriction    
+         22 Irreversible    
+         23                 
+         24 Lisa            
+         25 Yolk            
+         26 Maiden          
+         27                 
+         28                 
+         29                 
+         30                 
+         31                 
+         32 Person          
+         33 Rush            
+         34                 
+         35 Syncopate       
+         36 Misogamist      
+         37 Akhila          
+         38 Necromancer     
+         39                 
+         40                 
+         41 Chris           
+         42 Under           
+         43                 
+         44                 
+         45                 
+         46                 
+         47 Finagle         
+         48                 
+         49                 
+         50 Cook            
+         51 Jutty           
+         52                 
+         53                 
+         54                 
+         55 John            
+         56                 
+         57                 
+         58                 
+         59                 
+         60                 
+         61                 
+         62                 
+         63                 
+         64 James           
+         65                 
+         66                 
+         67                 
+         68                 
+         69                 
+         70                 
+         71                 
+         72                 
+         73 Staple          
+         74                 
+         75                 
+         76                 
+         77                 
+         78 Joel            
+         79                 
+         80                 
+         81                 
+         82                 
+         83                 
+         84                 
+         85                 
+         86                 
+         87                 
+         88                 
+         89                 
+         90                 
+         91                 
+         92                 
+         93                 
+         94                 
+         95                 
+         96                 
+         97                 
+         98                 
+         99                 
+        100 Acevedo         
+        101                 
+        102 Buck            
+        103                 
+        104 Clark           
+        105 Ajose           
+        106 Davies          
+        107 Batbold         
+        108 Egbe            
+        109 Crouch          
+        110 Farral          
+        111 Dugger          
+        112 Garza           
+        113 Ellington       
+        114 Christopher     
+        115 Fernando        
+        116 Charles         
+        117 Gurung          
+        118 Joseph          
+        119 Honor           
+        120 Kelly           
+        121                 
+        122 1234567890123456
+        123 Judy            
+        124 Matthew         
+        125 Kyle            
+        126 Northwest       
+        127 Adam            
+        128 Octavio         
+
+Statistics for Part C (Random Probe at 85% full)
+Statistics of first 30 lookups:
+Min probes:           6
+Max probes:         125
+Avg probes:  6.03500E+01
+
+Resetting statistics counters...
+Statistics of last 30 lookups:
+Min probes:           1
+Max probes:         119
+Avg probes:  5.28000E+01
+
+Table for Part C (Random Probe at 85% full)
+          1 Michael         
+          2 Arauza          
+          3 Clayton         
+          4                 
+          5 Derek           
+          6 Corey           
+          7 Eye             
+          8 Dustin          
+          9 Fabricate       
+         10 Todd            
+         11 Robert          
+         12 Fabulous        
+         13 Scott           
+         14 Vinnela         
+         15 Afterwards      
+         16 Wade            
+         17 Jordon          
+         18 seat            
+         19 Veronica        
+         20 Jeffrey         
+         21 Constriction    
+         22 Irreversible    
+         23                 
+         24 Lisa            
+         25 Yolk            
+         26 Maiden          
+         27                 
+         28                 
+         29 Perfect         
+         30                 
+         31 compass         
+         32 Person          
+         33 Rush            
+         34                 
+         35 Syncopate       
+         36 Misogamist      
+         37 Akhila          
+         38 Necromancer     
+         39 history         
+         40 cap             
+         41 Chris           
+         42 Under           
+         43 parasympathetic 
+         44 emperor         
+         45 cauldron        
+         46 Wine            
+         47 Finagle         
+         48 guard           
+         49                 
+         50 Cook            
+         51 Jutty           
+         52 inlet           
+         53                 
+         54 exhilarate      
+         55 John            
+         56 ratiocination   
+         57                 
+         58 live            
+         59 rationalize     
+         60 mole            
+         61 keep            
+         62 nosegay         
+         63 lazy            
+         64 James           
+         65 magnetic        
+         66 poison          
+         67 noggin          
+         68 brutalize       
+         69 dactyl          
+         70 constrain       
+         71 privilege       
+         72 scat            
+         73 Staple          
+         74 toluene         
+         75                 
+         76 forgetful       
+         77 sparse          
+         78 Joel            
+         79 tiller          
+         80 wince           
+         81                 
+         82 Screen          
+         83                 
+         84 seal            
+         85 wet             
+         86                 
+         87 orthodontist    
+         88                 
+         89                 
+         90 marsupial       
+         91                 
+         92                 
+         93 malfeasance     
+         94 option          
+         95 prepossess      
+         96 prologue        
+         97                 
+         98 quandary        
+         99 sponsor         
+        100 Acevedo         
+        101                 
+        102 Buck            
+        103 diastase        
+        104 Clark           
+        105 Ajose           
+        106 Davies          
+        107 Batbold         
+        108 Egbe            
+        109 Crouch          
+        110 Farral          
+        111 Dugger          
+        112 Garza           
+        113 Ellington       
+        114 Christopher     
+        115 Fernando        
+        116 Charles         
+        117 Gurung          
+        118 Joseph          
+        119 Honor           
+        120 Kelly           
+        121 ichthyosaur     
+        122 1234567890123456
+        123 Judy            
+        124 Matthew         
+        125 Kyle            
+        126 Northwest       
+        127 Adam            
+        128 Octavio         
+

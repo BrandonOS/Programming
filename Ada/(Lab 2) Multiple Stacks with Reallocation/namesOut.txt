@@ -1,0 +1,655 @@
+What do you want to create: 
+
+ Names Stack = [1] 
+ Dates Stack = [2] 
+Make your selection: 
+--------------------
+ Names Stack
+--------------------
+
+Enter the size of the stack:   Stack of size: 18
+
+Enter number of stacks:    4 total Stacks.
+
+Select a starting point:   Starting point is: 2
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 1 was selected.
+
+Name 'BURRIS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 1 was selected.
+
+Name 'RIOS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+4. Stack 4
+Option 1 was selected.
+
+Name 'RIOS' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 1 was selected.
+
+Name 'COOPER' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 1 was selected.
+
+Name 'BENNETT' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 3 was selected.
+
+Name 'JI' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 2 was selected.
+
+Name 'GARZA' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 3 was selected.
+
+Name 'MORGAN' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+4. Stack 4
+Option 4 was selected.
+
+Underflow!
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 4 was selected.
+
+Name 'MCLEOD' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 4 was selected.
+
+Overflow ocurred. Reallocating memory.
+
+Before Reallocation. Memory status: 
+____________________________________
+|  base(1) =   2  |  top(1) =   5  |
+|  base(2) =   7  |  top(2) =   8  |
+|  base(3) =  12  |  top(3) =  14  |
+|  base(4) =  17  |  top(4) =  19  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before Reallocation. Content status: 
+Stack 1 | Position 3 = BURRIS
+Stack 1 | Position 4 = COOPER
+Stack 1 | Position 5 = BENNETT
+Stack 2 | Position 8 = GARZA
+Stack 3 | Position 13 = JI
+Stack 3 | Position 14 = MORGAN
+Stack 4 | Position 18 = MCLEOD
+
+
+After Reallocation. Memory status: 
+____________________________________
+|  base(1) =   2  |  top(1) =   5  |
+|  base(2) =   7  |  top(2) =   8  |
+|  base(3) =  10  |  top(3) =  12  |
+|  base(4) =  14  |  top(4) =  16  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+After Reallocation. Content Status: 
+Stack 1 | Position 3 = BURRIS
+Stack 1 | Position 4 = COOPER
+Stack 1 | Position 5 = BENNETT
+Stack 2 | Position 8 = GARZA
+Stack 3 | Position 11 = JI
+Stack 3 | Position 12 = MORGAN
+Stack 4 | Position 15 = MCLEOD
+Stack 4 | Position 16 = CHEN
+
+
+Name 'CHEN' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+4. Stack 4
+Option 3 was selected.
+
+Name 'MORGAN' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+4. Stack 4
+Option 4 was selected.
+
+Name 'CHEN' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 1 was selected.
+
+Name 'WILLS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 3 was selected.
+
+Name 'MCGUIRE' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 1 was selected.
+
+Name 'CHEN' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 1 was selected.
+
+Overflow ocurred. Reallocating memory.
+
+Before Reallocation. Memory status: 
+____________________________________
+|  base(1) =   2  |  top(1) =   8  |
+|  base(2) =   7  |  top(2) =   8  |
+|  base(3) =  10  |  top(3) =  12  |
+|  base(4) =  14  |  top(4) =  15  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before Reallocation. Content status: 
+Stack 1 | Position 3 = BURRIS
+Stack 1 | Position 4 = COOPER
+Stack 1 | Position 5 = BENNETT
+Stack 1 | Position 6 = WILLS
+Stack 1 | Position 7 = CHEN
+Stack 2 | Position 8 = GARZA
+Stack 3 | Position 11 = JI
+Stack 3 | Position 12 = MCGUIRE
+Stack 4 | Position 15 = MCLEOD
+
+
+After Reallocation. Memory status: 
+____________________________________
+|  base(1) =   2  |  top(1) =   8  |
+|  base(2) =  13  |  top(2) =  14  |
+|  base(3) =  14  |  top(3) =  16  |
+|  base(4) =  16  |  top(4) =  17  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+After Reallocation. Content Status: 
+Stack 1 | Position 3 = BURRIS
+Stack 1 | Position 4 = COOPER
+Stack 1 | Position 5 = BENNETT
+Stack 1 | Position 6 = WILLS
+Stack 1 | Position 7 = CHEN
+Stack 1 | Position 8 = HALL
+Stack 2 | Position 14 = GARZA
+Stack 3 | Position 15 = MCLEOD
+Stack 3 | Position 16 = CHEN
+Stack 4 | Position 17 = MCLEOD
+
+
+Name 'HALL' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 4 was selected.
+
+Name 'BENNETT' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 1 was selected.
+
+Name 'RIOS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 1 was selected.
+
+Name 'BURRIS' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 1 was selected.
+
+Name 'MCGUIRE' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+4. Stack 4
+Option 1 was selected.
+
+Name 'MCGUIRE' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+4. Stack 4
+Option 1 was selected.
+
+Name 'BURRIS' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 2 was selected.
+
+Pop from which stack: 
+1. Stack 1
+2. Stack 2
+3. Stack 3
+4. Stack 4
+Option 1 was selected.
+
+Name 'RIOS' succesfully popped.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 2 was selected.
+
+Overflow ocurred. Reallocating memory.
+
+Before Reallocation. Memory status: 
+____________________________________
+|  base(1) =   2  |  top(1) =   8  |
+|  base(2) =  13  |  top(2) =  15  |
+|  base(3) =  14  |  top(3) =  16  |
+|  base(4) =  16  |  top(4) =  18  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before Reallocation. Content status: 
+Stack 1 | Position 3 = BURRIS
+Stack 1 | Position 4 = COOPER
+Stack 1 | Position 5 = BENNETT
+Stack 1 | Position 6 = WILLS
+Stack 1 | Position 7 = CHEN
+Stack 1 | Position 8 = HALL
+Stack 2 | Position 14 = GARZA
+Stack 3 | Position 15 = MCLEOD
+Stack 3 | Position 16 = CHEN
+Stack 4 | Position 17 = MCLEOD
+Stack 4 | Position 18 = BENNETT
+
+
+After Reallocation. Memory status: 
+____________________________________
+|  base(1) =   2  |  top(1) =   8  |
+|  base(2) =   8  |  top(2) =  10  |
+|  base(3) =  12  |  top(3) =  14  |
+|  base(4) =  14  |  top(4) =  16  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+After Reallocation. Content Status: 
+Stack 1 | Position 3 = BURRIS
+Stack 1 | Position 4 = COOPER
+Stack 1 | Position 5 = BENNETT
+Stack 1 | Position 6 = WILLS
+Stack 1 | Position 7 = CHEN
+Stack 1 | Position 8 = HALL
+Stack 2 | Position 9 = GARZA
+Stack 2 | Position 10 = CHO
+Stack 3 | Position 13 = MCLEOD
+Stack 3 | Position 14 = CHEN
+Stack 4 | Position 15 = MCLEOD
+Stack 4 | Position 16 = BENNETT
+
+
+Name 'CHO' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 4 was selected.
+
+Name 'WITHROW' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 4 was selected.
+
+Name 'KEO' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 2 was selected.
+
+Name 'IHEZUKWU' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 4 was selected.
+
+Overflow ocurred. Reallocating memory.
+
+Before Reallocation. Memory status: 
+____________________________________
+|  base(1) =   2  |  top(1) =   8  |
+|  base(2) =   8  |  top(2) =  11  |
+|  base(3) =  12  |  top(3) =  14  |
+|  base(4) =  14  |  top(4) =  19  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before Reallocation. Content status: 
+Stack 1 | Position 3 = BURRIS
+Stack 1 | Position 4 = COOPER
+Stack 1 | Position 5 = BENNETT
+Stack 1 | Position 6 = WILLS
+Stack 1 | Position 7 = CHEN
+Stack 1 | Position 8 = HALL
+Stack 2 | Position 9 = GARZA
+Stack 2 | Position 10 = CHO
+Stack 2 | Position 11 = IHEZUKWU
+Stack 3 | Position 13 = MCLEOD
+Stack 3 | Position 14 = CHEN
+Stack 4 | Position 15 = MCLEOD
+Stack 4 | Position 16 = BENNETT
+Stack 4 | Position 17 = WITHROW
+Stack 4 | Position 18 = KEO
+
+
+After Reallocation. Memory status: 
+____________________________________
+|  base(1) =   2  |  top(1) =   8  |
+|  base(2) =   8  |  top(2) =  11  |
+|  base(3) =  11  |  top(3) =  13  |
+|  base(4) =  13  |  top(4) =  18  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+After Reallocation. Content Status: 
+Stack 1 | Position 3 = BURRIS
+Stack 1 | Position 4 = COOPER
+Stack 1 | Position 5 = BENNETT
+Stack 1 | Position 6 = WILLS
+Stack 1 | Position 7 = CHEN
+Stack 1 | Position 8 = HALL
+Stack 2 | Position 9 = GARZA
+Stack 2 | Position 10 = CHO
+Stack 2 | Position 11 = IHEZUKWU
+Stack 3 | Position 12 = MCLEOD
+Stack 3 | Position 13 = CHEN
+Stack 4 | Position 14 = MCLEOD
+Stack 4 | Position 15 = BENNETT
+Stack 4 | Position 16 = WITHROW
+Stack 4 | Position 17 = KEO
+Stack 4 | Position 18 = DAVIES
+
+
+Name 'DAVIES' succesfully Pushed.
+
+Which function would you like: 
+ 1. Push.
+ 2. Pop.
+ 3. Terminate! 
+Make your selection: Option 1 was selected.
+
+Enter a name to push:   1. Stack 1
+  2. Stack 2
+  3. Stack 3
+  4. Stack 4
+Push to which stack: Stack 4 was selected.
+
+Overflow ocurred. Reallocating memory.
+
+Before Reallocation. Memory status: 
+____________________________________
+|  base(1) =   2  |  top(1) =   8  |
+|  base(2) =   8  |  top(2) =  11  |
+|  base(3) =  11  |  top(3) =  13  |
+|  base(4) =  13  |  top(4) =  19  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Before Reallocation. Content status: 
+Stack 1 | Position 3 = BURRIS
+Stack 1 | Position 4 = COOPER
+Stack 1 | Position 5 = BENNETT
+Stack 1 | Position 6 = WILLS
+Stack 1 | Position 7 = CHEN
+Stack 1 | Position 8 = HALL
+Stack 2 | Position 9 = GARZA
+Stack 2 | Position 10 = CHO
+Stack 2 | Position 11 = IHEZUKWU
+Stack 3 | Position 12 = MCLEOD
+Stack 3 | Position 13 = CHEN
+Stack 4 | Position 14 = MCLEOD
+Stack 4 | Position 15 = BENNETT
+Stack 4 | Position 16 = WITHROW
+Stack 4 | Position 17 = KEO
+Stack 4 | Position 18 = DAVIES
+
+
+Not enough memory. Come back with more space.
+
